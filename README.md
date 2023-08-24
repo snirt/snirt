@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello there! 👋
+I'm a dedicated backend and fullstack software developer, fueled by a passion for crafting innovative digital solutions.
 
-<!--
-**snirt/snirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies and Tools
+- **Primary Programming Languages:** Java, Go, Python.
+- **Frontend Development:** React.js, HTML, JavaScript.
+- **Containerization and Orcestration:** Docker, Podman, Kubernetes.
+- **Web Frameworks:** SpringBoot, go-gin, FastAPI, Flask and more.
+- **Database Expertise:** Oracle, Postgres, MySQL, MongoDB, Redis.
+- **ORM Proficiency:** Hibernate, GORM, SQLAlchemy, PyMongo.
+- **IDE Favorites:** VSCode, JetBrain's IDEs.
+- **Workstation OSs:** Linux, MacOS, Windows (with Fedora as my main OS).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Let's Connect
+Feel free to reach out for discussions, collaboration, or just a friendly chat:<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/snirt) 
+![Discord](https://img.shields.io/badge/-snirt%232652-7289DA?style=flat-square&logo=Discord&logoColor=white)
