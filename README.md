@@ -9,7 +9,7 @@ I'm a dedicated backend and fullstack software developer, fueled by a passion fo
 - **Database Expertise:** Oracle, Postgres, MySQL, MongoDB, Redis.
 - **ORM Proficiency:** Hibernate, GORM, SQLAlchemy, PyMongo.
 - **IDE Favorites:** VSCode, JetBrain's IDEs.
-- **Workstation OSs:** Linux, MacOS, Windows (with Fedora as my main OS).
+- **Workstation OSs:** Linux, MacOS, Windows (with openSUSE Tumbleweed as my main OS).
 
 ## 🌐 Let's Connect
 Feel free to reach out for discussions, collaboration, or just a friendly chat:<br/><br/>
