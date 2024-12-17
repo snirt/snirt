@@ -8,7 +8,7 @@ I'm a dedicated backend and fullstack software developer, fueled by a passion fo
 - **Web Frameworks:** SpringBoot, go-gin, FastAPI, Flask and more.
 - **Database Expertise:** Oracle, Postgres, MySQL, MongoDB, Redis.
 - **ORM Proficiency:** Hibernate, GORM, SQLAlchemy, PyMongo.
-- **IDE Favorites:** VSCode, JetBrain's IDEs.
+- **IDE/Editors Favorites:** Neovim, VSCode, JetBrains.
 - **Workstation OSs:** Linux, MacOS, Windows (with openSUSE Tumbleweed as my main OS).
 
 ## 🌐 Let's Connect
